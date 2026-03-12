@@ -1,0 +1,40 @@
+## Contribution Guidelines
+
+When uploading or committing files to the repository, please follow these guidelines to maintain clarity and proper documentation of contributions:
+
+1. **Use a clear and meaningful commit message.**
+   The commit message should briefly describe the purpose of the change or the file being added.
+
+2. **Provide an extended description.**
+   After the commit message, include a short description explaining:
+
+   * What the uploaded file contains
+   * Its purpose in the project
+   * Any important details relevant to the implementation
+
+3. **Add your name at the end of the description.**
+   After writing the description, include your name in the following format:
+
+   ```
+   -Name
+   ```
+
+### Example
+
+Commit Message:
+
+```
+Add manufacturer onboarding flowchart
+```
+
+Description:
+
+```
+Uploaded the flowchart for the manufacturer onboarding process. 
+This diagram outlines the registration, verification, and account creation 
+steps for manufacturers joining the EcoTrace platform.
+
+-Your_Name
+```
+
+Following these guidelines helps maintain **clear documentation, proper attribution, and better collaboration within the repository**.
