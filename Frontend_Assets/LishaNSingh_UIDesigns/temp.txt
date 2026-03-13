@@ -1,4 +1,0 @@
-This folder contains the frontend UI screens designed for the EcoTrace platform.
-It includes the Manufacturer Login and Manufacturer Signup interfaces that allow manufacturers to register and access the system. The folder also contains the Supply Chain Verifier Login screen, which enables supply chain personnel to log in and verify supply chain updates.
-Additionally, the Manufacturer Dashboard screen is included, which allows manufacturers to view product batches, monitor supply chain stages, and manage related product information.
-These designs focus on creating a clear and structured interface for authentication and manufacturer-side operations within the platform.
