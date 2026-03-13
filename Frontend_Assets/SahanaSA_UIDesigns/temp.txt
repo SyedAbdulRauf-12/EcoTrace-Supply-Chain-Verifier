@@ -1,0 +1,4 @@
+This folder contains the frontend design screens for the platform. It includes the consumer-side interfaces that allow users to view product
+information, track the product journey. and access sustaiinability detials.
+Additionally it inlcudes the manufacturer-side Supply chain Updation screen. which enables manufacturers to update and manage supply chain information.
+The designs focus on improving tranparency and providing users with a clear view of the product cycle.
